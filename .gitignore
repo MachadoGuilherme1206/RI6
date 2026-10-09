@@ -1,0 +1,22 @@
+
+node_modules/
+
+js/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+
+.env
+.env.local
+
+
+Thumbs.db
+desktop.ini
+.DS_Store
+
+
+.vscode/
+.idea/

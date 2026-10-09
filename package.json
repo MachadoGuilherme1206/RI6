@@ -1,0 +1,20 @@
+{
+  "name": "ri6-calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora CLI em TypeScript - exercicio de POO (RI6)",
+  "type": "module",
+  "main": "js/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node js/index.js",
+    "dev": "tsc && node js/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
